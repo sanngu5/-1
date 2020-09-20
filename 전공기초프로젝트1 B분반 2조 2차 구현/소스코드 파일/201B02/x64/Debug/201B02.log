@@ -1,0 +1,17 @@
+﻿  main.cpp
+  modify.cpp
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(23): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(12): warning C4101: 'cksh' :참조되지 않은 지역 변수입니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(78): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(100): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(275): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(305): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(328): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(389): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(509): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(525): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\modify.cpp(650): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+  table.cpp
+c:\users\potatoy\desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201b02\201b02\table.cpp(147): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...
+  201B02.vcxproj -> C:\Users\POTATOY\Desktop\건국대\2020 1학기\3229 전기프1 새502\2차 구현\201B02\x64\Debug\201B02.exe
